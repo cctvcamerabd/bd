@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+Disallow: /*?product_id=
+Disallow: /*?component_id=
+Disallow: /*?pc_id=
+Disallow: /*?tracking=
+Disallow: /*?offer_id=
+
+sitemap:https://www.startech.com.bd/sitemap.xml
